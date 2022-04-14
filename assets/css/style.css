@@ -4,6 +4,10 @@ body {
 	font-family: 'Poppins', sans-serif !important;
 }
 
+.container{
+
+	max-width: 1300px !important;
+}
 ul {
 
 	padding: 0;
@@ -1234,17 +1238,11 @@ iframe {
 
 .navbar-fixed-top .navbar-nav>li>a {
 
-	color: #071e55;
+    font-size: 18px !important;
+	
+    padding: 12px 45px !important;
 
-	font-size: 17px !important;
-
-	line-height: 30px !important;
-
-	padding: 10px 15px !important;
-
-	font-family: 'Nunito', sans-serif;
-
-	font-weight: 600;
+    font-family: 'Poppins', sans-serif;
 
 }
 
@@ -4428,3 +4426,6 @@ input.use-cases-submit:hover {
 
 	color: #000;
 }
+
+
+  
