@@ -611,11 +611,21 @@ iframe {
 }
 
 .width-65{
+
 	width: 65%;
 }
+
+.width-90{
+
+	width: 90%;
+
+}
+
 .height-100{
+
 	height: 100%;
 }
+
 .box-shadow {
 
 	border-radius: 8px;
@@ -4397,6 +4407,24 @@ input.use-cases-submit:hover {
 	margin-top: 20px;
 
 	font-size: 21px;
+
+	color: #000;
+}
+
+.card-text{
+	font-size: 16px;
+
+    font-family: 'Poppins', sans-serif;
+	
+
+    font-weight: 400;
+
+	color: #7c8595;
+}
+
+.card-text-bold{
+
+	font-weight: 600;
 
 	color: #000;
 }
